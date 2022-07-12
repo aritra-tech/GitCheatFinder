@@ -39,7 +39,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                android:text=" Cheat Sheet"
+                android:text=" Cheat Finder"
                 android:textColor="@android:color/holo_red_light"/>
         </LinearLayout>
         <TextView
@@ -102,6 +102,17 @@
 
         </androidx.cardview.widget.CardView>
 
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/cardInputField"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginTop="16dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            style="@style/Widget.AppCompat.ListView"
+            tools:itemCount="10"
+            tools:listitem="@layout/list"/>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
