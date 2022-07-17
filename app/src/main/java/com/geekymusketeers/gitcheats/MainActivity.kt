@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity(), Click {
     private lateinit var jsonObject: JSONObject
     private var list: ArrayList<PrimaryModel> = ArrayList()
     private var listRecyclerView : ArrayList<SecondaryModel> = ArrayList()
-    private val FILENAME: String = "git_command_explorer.json"
+    private val FILENAME: String ="git_command_explorer.json"
     private lateinit var primaryValue: String
 
     override fun onCreate(savedInstanceState: Bundle?) {
