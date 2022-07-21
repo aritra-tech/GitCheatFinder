@@ -7,6 +7,7 @@
     android:padding="16dp"
     tools:context=".InfoActivity">
 
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -106,6 +107,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="98"
+
                     android:fontFamily="@font/calibri"
                     android:lineSpacingExtra="8dp"
                     android:padding="16dp"
@@ -135,6 +137,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             app:cardCornerRadius="8dp"
+            app:cardBackgroundColor="#20262C"
             app:cardUseCompatPadding="true"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -161,6 +164,7 @@
                     android:lineSpacingExtra="8dp"
                     android:padding="16dp"
                     android:textSize="14dp"
+                    android:textColor="@color/white"
                     android:textStyle="bold"
                     tools:text="Print lines matching a pattern.
 Option -n to display the numbering of lines in which there are matches" />
