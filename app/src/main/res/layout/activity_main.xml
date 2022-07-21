@@ -39,6 +39,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
+                android:textStyle="bold"
                 android:text=" Cheat Finder"
                 android:textColor="@android:color/holo_red_light"/>
         </LinearLayout>
