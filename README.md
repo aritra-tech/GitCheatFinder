@@ -1,4 +1,4 @@
-# Git-Cheat-Finder
+# GitCheatFinder
 ### Git Cheat Finder is an Android Application 📲 to easily find the right Git Commands that you want to use. 🚀
 
 ## 🔥 Features:
