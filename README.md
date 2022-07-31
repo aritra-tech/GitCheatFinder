@@ -1,9 +1,17 @@
+
+![Group 1](https://user-images.githubusercontent.com/80090908/182035772-c520cc8c-6059-4d3d-be83-446802f053e0.png)
+
+
 # GitCheatFinder
 ### Git Cheat Finder is an Android Application 📲 to easily find the right Git Commands that you want to use. 🚀
 
 ## 🔥 Features:
 - Easily get any Git Command on the go. 
 - View Usage and implementation of any Git Command easily.
+
+## 📷 Screen shorts
+
+![Group 2](https://user-images.githubusercontent.com/80090908/182035975-f56345de-6fe7-4047-9a22-375d55690048.png)
 
 ## 🛠 Tech Used
 - Kotlin
