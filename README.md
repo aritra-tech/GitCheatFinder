@@ -1,6 +1,7 @@
 
 
-![Group 1](https://user-images.githubusercontent.com/80090908/182036018-31f99235-1644-461e-bff8-b5141aa5e83e.png)
+![Group 3](https://user-images.githubusercontent.com/80090908/182605489-42aced3a-4f97-49dd-8902-ad46b8d95adf.png)
+
 
 # GitCheatFinder
 ### Git Cheat Finder is an Android Application 📲 to easily find the right Git Commands that you want to use. 🚀
